@@ -1,0 +1,20 @@
+kingdom_of_ireland = {
+    1010.1.1 = {
+        holder = 1000000 #Brian - King of Ireland aged 40
+    }
+}
+
+duchy_of_ulster = {
+    980.1.1 = {
+        holder = 9000000
+    }
+    1060.1.1 = {
+        holder = 1100000 #Brian's Son - Heir of Ireland aged 10
+    }
+}
+
+county_of_dublin = {
+    1010.1.1 = {
+        holder = 1000000 #Brian - King of Ireland aged 40
+    }
+}

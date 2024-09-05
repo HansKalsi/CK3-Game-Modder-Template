@@ -1,0 +1,29 @@
+1000000 = {
+	name = "Brian" #Brian - King of Ireland
+	dynasty = 1100000
+	religion = "catholic"
+	culture = irish
+	1000.1.1 = {
+		birth = "1000.1.1"
+	}
+}
+
+1000001 = {
+	name = "Brian the Secodn" #Brian's Son - Heir of Ireland
+	dynasty = 1100000
+	religion = "catholic"
+	culture = irish
+	1050.1.1 = {
+		birth = "1050.1.1"
+	}
+}
+
+1000003 = {
+	name = "Sara" #Brian's Daughter
+	dynasty = 1100000
+	religion = "catholic"
+	culture = irish
+	1066.1.1 = {
+		birth = "1066.1.1"
+	}
+}
