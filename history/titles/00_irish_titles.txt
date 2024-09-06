@@ -1,5 +1,5 @@
 kingdom_of_ireland = {
-    1010.1.1 = {
+    800.1.1 = { //Ireland becomes a single united kingdom
         holder = 1000000 #Brian - King of Ireland aged 40
     }
 }
@@ -9,12 +9,60 @@ duchy_of_ulster = {
         holder = 9000000
     }
     1060.1.1 = {
-        holder = 1100000 #Brian's Son - Heir of Ireland aged 10
+        holder = 1100000 #Brian's Son - Heir of Ireland aged 28
+    }
+}
+
+//Added new Duchies
+duchy_of_munster = {
+    980.1.1 = {
+        holder = 9000000
+    }
+    1060.1.1 = {
+        holder = 1100000 #Gormflaith - Queen of Ireland aged 38
+    }
+}
+
+duchy_of_leister = {
+    980.1.1 = {
+        holder = 9000000
+    }
+    1060.1.1 = {
+        holder = 1100000 #Murchad - Duke of Leister aged 22
+    }
+}
+
+duchy_of_connacht = {
+    980.1.1 = {
+        holder = 9000000
+    }
+    1060.1.1 = {
+        holder = 1100000 #Tadc - Duke of Connacht aged 22
     }
 }
 
 county_of_dublin = {
     1010.1.1 = {
         holder = 1000000 #Brian - King of Ireland aged 40
+    }
+}
+
+
+//Added new Counties
+county_of_galway = {
+    1010.1.1 = {
+        holder = 1000000 #Donnchad - Count of Galway aged 20
+    }
+}
+
+county_of_belfast = {
+    1010.1.1 = {
+        holder = 1000000 #Slaine - Count of Belfast aged 20
+    }
+}
+
+county_of_limerick = {
+    1010.1.1 = {
+        holder = 1000000 #Flann - Count of Limerick aged 20
     }
 }
