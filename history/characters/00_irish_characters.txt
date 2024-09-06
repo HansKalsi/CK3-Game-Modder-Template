@@ -1,7 +1,7 @@
 1000000 = {
 	name = "Brian" #Brian - King of Ireland
 	dynasty = 1100000
-	religion = "catholic"
+	religion = "orthodox"
 	culture = irish
 	1000.1.1 = {
 		birth = "1000.1.1"
@@ -9,21 +9,74 @@
 }
 
 1000001 = {
-	name = "Brian the Secodn" #Brian's Son - Heir of Ireland
+	name = "Brian the Second" #Brian and Gormlaith's Son - Heir of Ireland
 	dynasty = 1100000
-	religion = "catholic"
+	religion = "orthodox"
 	culture = irish
 	1050.1.1 = {
 		birth = "1050.1.1"
 	}
 }
 
+//	Queen of Ireland
+1000002 = {
+	name = Gormlaith #Gormlaith - Queen of Ireland
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1002.1.1 = {
+		birth = "1002.1.1"
+	}
+}
+
 1000003 = {
 	name = "Sara" #Brian's Daughter
 	dynasty = 1100000
-	religion = "catholic"
+	religion = "orthodox"
 	culture = irish
 	1066.1.1 = {
 		birth = "1066.1.1"
+	}
+}
+
+//	Random Orthodox Greek Character
+1000004 = {
+	name = Euripides #Euripides
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = greek
+	1003.1.1 = {
+		birth = "1003.1.1"
+	}
+}
+
+//	Unique Historical Character
+1000005 = {
+	name = Máel #Máel
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	949.1.1 = {
+		birth = "949.1.1"
+	}
+}
+
+1000006 = {
+	name = Sitric #Sitric
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	970.1.1 = {
+		birth = "970.1.1"
+	}
+}
+
+1000007 = {
+	name = Donnchad #Donnchad
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	983.1.1 = {
+		birth = "983.1.1"
 	}
 }
