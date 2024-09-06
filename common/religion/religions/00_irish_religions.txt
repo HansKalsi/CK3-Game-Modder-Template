@@ -153,5 +153,75 @@ christianity_religion = {
 				ReligiousHeadTitleName = orthodox_religious_head_title_name				
 			}			
 		}
+
+		//	Gnostic
+		gnostic = {
+			color = { 0.4 0.7 0.2 }
+			religious_head = k_aeon_presbytery
+			graphical_faith = "gnostic_christian_gfx"
+			
+			holy_site = alexandria
+			holy_site = athens
+			holy_site = glastonbury
+			holy_site = mount_sinai
+			holy_site = ephesus
+			
+			#Special Tolerance: Embraces all paths to divine knowledge
+			doctrine = special_doctrine_universal_gnosis
+
+			#Tenets
+			doctrine = tenet_divine_spark
+			doctrine = tenet_sacred_wisdom
+			doctrine = tenet_mystical_traditions
+
+			holy_order_names = {
+				{ name = "holy_order_brotherhood_of_the_sacred_light" coat_of_arms = "ho_brotherhood_of_light" }
+				{ name = "holy_order_order_of_the_hidden_truth" coat_of_arms = "ho_hidden_truth" }
+				{ name = "holy_order_sisters_of_the_aeon" coat_of_arms = "ho_sisters_of_aeon" }
+			}
+
+			localization = {
+				#God Concept: Represents Gnostic divinities and Aeons, abstract forces representing divine knowledge
+				FertilityGodName = gnostic_divine_sophia
+				FertilityGodNamePossessive = gnostic_divine_sophia_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				WealthGodName = gnostic_divine_pleroma
+				WealthGodNamePossessive = gnostic_divine_pleroma_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_IT
+				WealthGodHerHis = CHARACTER_HERHIS_ITS
+				WealthGodHerHim = CHARACTER_HERHIM_IT
+
+				HouseholdGodName = gnostic_aeon_christos
+				HouseholdGodNamePossessive = gnostic_aeon_christos_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_HE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HIS
+				HouseholdGodHerHim = CHARACTER_HERHIM_HIM
+
+				KnowledgeGodName = gnostic_holy_spirit
+				KnowledgeGodNamePossessive = gnostic_holy_spirit_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HER
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HER
+
+				WarGodName = gnostic_aeon_michael
+				WarGodNamePossessive = gnostic_aeon_michael_possessive
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				WaterGodName = gnostic_aeon_metatron
+				WaterGodNamePossessive = gnostic_aeon_metatron_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_IT
+				WaterGodHerHis = CHARACTER_HERHIS_ITS
+				WaterGodHerHim = CHARACTER_HERHIM_IT
+
+				# Hierophants instead of Popes or Patriarchs
+				ReligiousHeadName = gnostic_hierophant_title
+				ReligiousHeadTitleName = gnostic_hierophant_title_name				
+			}
+		}
 	}
 }
