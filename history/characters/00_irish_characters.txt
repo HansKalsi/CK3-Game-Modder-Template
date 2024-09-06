@@ -1,7 +1,7 @@
 1000000 = {
 	name = "Brian" #Brian - King of Ireland
 	dynasty = 1100000
-	religion = "catholic"
+	religion = "orthodox"
 	culture = irish
 	1000.1.1 = {
 		birth = "1000.1.1"
@@ -9,21 +9,115 @@
 }
 
 1000001 = {
-	name = "Brian the Secodn" #Brian's Son - Heir of Ireland
+	name = "Brian the Second" #Brian and #Gormflaith's Son - Heir of Ireland
 	dynasty = 1100000
-	religion = "catholic"
+	religion = "orthodox"
 	culture = irish
-	1050.1.1 = {
-		birth = "1050.1.1"
+	1032.1.1 = {
+		birth = "1032.1.1" //Changed Birth, I am not entirely sure on what the present year is, but I based it on 1060 AD (1060 - 28 = 1032)
+	}
+}
+
+//Queen of Ireland
+1000002 = {
+	name = "Gormflaith" #Gormflaith - Queen of Ireland
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1002.1.1 = {
+		birth = "1002.1.1"
 	}
 }
 
 1000003 = {
-	name = "Sara" #Brian's Daughter
+	name = "Sara" #Brian and #Catherine's Daughter
 	dynasty = 1100000
-	religion = "catholic"
+	religion = "orthodox"
 	culture = irish
 	1066.1.1 = {
 		birth = "1066.1.1"
+	}
+}
+
+//Random Greek Orthodox Character
+1000004 = {
+	name = "Dimitrios" #Dimitrios
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = greek
+	1005.1.1 = {
+		birth = "1005.1.1"
+	}
+}
+
+//Unique Historical Figure
+//Sigtrygg Silkbeard was the Viking king that Brian campaigned against in 1013 
+1000005 = {
+	name = "Sigtrygg Silkbeard" #Sigtrygg
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	970.1.1 = {
+		birth = "970.1.1"
+	}
+}
+
+1000006 = {
+	name = "Murchad" #Murchad - Army Leader
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+}
+
+1000007 = {
+	name = "Tadc" #Tadc
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+}
+
+1000008 = {
+	name = "Donnchad" #Donnchad
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+}
+
+1000009 = {
+	name = "Domhnall" #Domhnall
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+}
+
+1000010 = {
+	name = "Slaine" #Slaine
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1010.1.1 = {
+		birth = "1010.1.1"
+	}
+}
+
+1000011 = {
+	name = "Flann" #Flann
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1010.1.1 = {
+		birth = "1010.1.1"
 	}
 }

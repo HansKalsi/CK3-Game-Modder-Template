@@ -153,5 +153,61 @@ christianity_religion = {
 				ReligiousHeadTitleName = orthodox_religious_head_title_name				
 			}			
 		}
+
+		//Added Celtic Religion
+		celtic = {
+			color = { 0.7 0.8 0.5 }
+			religious_head = k_celtic
+			
+			holy_site = seine
+			holy_site = chamalieres
+
+			#Special Tolerance
+			doctrine = special_doctrine_celtic
+
+			#Tenets
+			doctrine = tenet_otherworld
+			doctrine = tenet_nemeton
+			doctrine = tenet_votive
+
+			holy_order_names = {
+				{ name = "druids" }
+				{ name = "fili" }
+			}
+
+			localization = { # Utilizes the 'West Christian' Saints, shared by Catholics and Orthodox
+				#DeathGod
+				DeathGodName = Toutatis
+				DeathGodNamePossessive = Toutatis
+				DeathGodGodSheHe = CHARACTER_SHEHE_SHE
+				DeathGodGodHerHis = CHARACTER_HERHIS_HER
+				DeathGodGodHerHim = CHARACTER_HERHIM_HER 
+				
+				#FertilityGod
+				FertilityGodName = Matrona
+				FertilityGodNamePossessive = Matrona
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WarGod
+				WarGodName = Andraste
+				WarGodNamePossessive = Andraste
+				WarGodSheHe = CHARACTER_SHEHE_HE
+				WarGodHerHis = CHARACTER_HERHIS_HIS
+				WarGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WaterGod
+				WaterGodName = Sirona
+				WaterGodNamePossessive = Sirona
+				WaterGodSheHe = CHARACTER_SHEHE_HE
+				WaterGodHerHis = CHARACTER_HERHIS_HIS
+				WaterGodHerHim = CHARACTER_HERHIM_HIM
+
+				# Druids
+				ReligiousHeadName = Druids
+				ReligiousHeadTitleName = Druids				
+			}			
+		}
 	}
 }
