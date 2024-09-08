@@ -155,3 +155,88 @@ christianity_religion = {
 		}
 	}
 }
+
+irish_paganism_religion = {
+	family = rf_pagan
+
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+	doctrine = pagan_hostility_doctrine
+	
+	piety_icon_group = "pagan"
+
+	faiths = {
+		irish_druidism = {
+			color = { 0.2 0.8 0.2 }
+			religious_head = k_ireland
+			graphical_faith = "pagan_gfx"
+			
+			holy_site = dublin
+			holy_site = armagh
+			holy_site = cashel
+			holy_site = tara
+			holy_site = newgrange
+			
+			#Special Tolerance
+			doctrine = special_doctrine_nature_worship
+
+			#Tenets
+			doctrine = tenet_ancestor_worship
+			doctrine = tenet_sacred_groves
+			doctrine = tenet_ritual_celebrations
+
+			holy_order_names = {
+				{ name = "holy_order_fianna_warriors" }
+				{ name = "holy_order_druids_of_the_oak" }
+				{ name = "holy_order_guardians_of_tara" }
+			}
+
+			localization = {
+				#FertilityGod
+				FertilityGodName = irish_fertility_god_name
+				FertilityGodNamePossessive = irish_fertility_god_name_possessive
+				FertilityGodSheHe = CHARACTER_SHEHE_SHE
+				FertilityGodHerHis = CHARACTER_HERHIS_HER
+				FertilityGodHerHim = CHARACTER_HERHIM_HER
+
+				#WealthGod
+				WealthGodName = irish_wealth_god_name
+				WealthGodNamePossessive = irish_wealth_god_name_possessive
+				WealthGodSheHe = CHARACTER_SHEHE_HE
+				WealthGodHerHis = CHARACTER_HERHIS_HIS
+				WealthGodHerHim = CHARACTER_HERHIM_HIM
+
+				#HouseholdGod
+				HouseholdGodName = irish_household_god_name
+				HouseholdGodNamePossessive = irish_household_god_name_possessive
+				HouseholdGodSheHe = CHARACTER_SHEHE_SHE
+				HouseholdGodHerHis = CHARACTER_HERHIS_HER
+				HouseholdGodHerHim = CHARACTER_HERHIM_HER
+
+				#KnowledgeGod
+				KnowledgeGodName = irish_knowledge_god_name
+				KnowledgeGodNamePossessive = irish_knowledge_god_name_possessive
+				KnowledgeGodSheHe = CHARACTER_SHEHE_HE
+				KnowledgeGodHerHis = CHARACTER_HERHIS_HIS
+				KnowledgeGodHerHim = CHARACTER_HERHIM_HIM
+
+				#WarGod
+				WarGodName = irish_war_god_name
+				WarGodNamePossessive = irish_war_god_name_possessive
+				WarGodSheHe = CHARACTER_SHEHE_SHE
+				WarGodHerHis = CHARACTER_HERHIS_HER
+				WarGodHerHim = CHARACTER_HERHIM_HER
+
+				#WaterGod
+				WaterGodName = irish_water_god_name
+				WaterGodNamePossessive = irish_water_god_name_possessive
+				WaterGodSheHe = CHARACTER_SHEHE_SHE
+				WaterGodHerHis = CHARACTER_HERHIS_HER
+				WaterGodHerHim = CHARACTER_HERHIM_HER
+
+				# High Druids instead of Popes
+				ReligiousHeadName = irish_religious_head_title
+				ReligiousHeadTitleName = irish_religious_head_title_name				
+			}			
+		}
+	}
+}
