@@ -1,7 +1,7 @@
 1000000 = {
 	name = "Brian" #Brian - King of Ireland
 	dynasty = 1100000
-	religion = "catholic"
+	religion = "orthodox"
 	culture = irish
 	1000.1.1 = {
 		birth = "1000.1.1"
@@ -9,21 +9,100 @@
 }
 
 1000001 = {
-	name = "Brian the Secodn" #Brian's Son - Heir of Ireland
+	name = "Brian the Second" #Brian's and Gormlaith's Son - Heir of Ireland
 	dynasty = 1100000
-	religion = "catholic"
+	religion = "orthodox"
 	culture = irish
-	1050.1.1 = {
-		birth = "1050.1.1"
+	1022.1.1 = {
+		birth = "1022.1.1"
+	}
+}
+
+# Queen of Ireland
+1000002 = {
+	name = "Gormlaith" #Gormlaith - Queen of Ireland
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1000.1.1 = {
+		birth = "1000.1.1"
 	}
 }
 
 1000003 = {
 	name = "Sara" #Brian's Daughter
 	dynasty = 1100000
-	religion = "catholic"
+	religion = "orthodox"
 	culture = irish
 	1066.1.1 = {
 		birth = "1066.1.1"
 	}
 }
+
+# Random Orthodox Greek Character
+1000004 = {
+	name = "Michael Psellos" #Michael Psellos - Byzantine Scholar
+	dynasty = 1200000
+	religion = "orthodox"
+	culture = greek
+	1018.1.1 = {
+		birth = "1018.1.1"
+	}
+}
+
+# Duchy of Leinster Holder
+1000005 = {
+	name = "Donnchad" #Donnchad - Duke of Leinster
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1060.1.1 = {
+		birth = "1060.1.1"
+	}
+}
+
+#Duchy of Connacht Holder
+1000006 = {
+	name = "Tairrdelbach" #Tairrdelbach - Duke of Connacht
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1088.1.1 = {
+		birth = "1088.1.1"
+	}
+}
+
+#County of Meath Holder
+1000007 = {
+	name = "Muirchertach Ua Briain" #Muirchertach Ua Briain - Earl of Meath
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1020.1.1 = {
+		birth = "1020.1.1"
+	}
+}
+
+#County of Louth Holder
+1000008 = {
+	name = "Muirchertach Ua Mael Sechnaill" #Muirchertach Ua Mael Sechnaill - Earl of Louth
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1030.1.1 = {
+		birth = "1030.1.1"
+	}
+}
+
+#Unique Character 1000-1060 AD
+1000009 = {
+	name = "Canute" #Canute the Great - Danish King of England, Denmark, and Norway
+	dynasty = 1300000
+	religion = "catholic"
+	culture = english
+	1000.1.1 = {
+		birth = "1000.1.1"
+	}
+}
+
+

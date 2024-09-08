@@ -1,5 +1,5 @@
 kingdom_of_ireland = {
-    1010.1.1 = {
+    800.1.1 = {
         holder = 1000000 #Brian - King of Ireland aged 40
     }
 }
@@ -13,8 +13,38 @@ duchy_of_ulster = {
     }
 }
 
+duchy_of_leinster = {
+    980.1.1 = {
+        holder = 9000001
+    }
+    1098.1.1 = {
+        holder = 1000005 #Donnchad - Duke of Leinster aged 38
+    }
+}
+
+duchy_of_connacht = {
+    980.1.1 = {
+        holder = 9000002
+    }
+    1106.1.1 = {
+        holder = 1000006 #Tairrdelbach - Duke of Connacht aged 18
+    }
+}
+
 county_of_dublin = {
     1010.1.1 = {
         holder = 1000000 #Brian - King of Ireland aged 40
+    }
+}
+
+county_of_meath = {
+    1050.1.1 = {
+        holder = 1000007 #Muirchertach Ua Briain - Earl of Meath aged 30
+    }
+}
+
+county_of_louth = {
+    1050.1.1 = {
+        holder = 1000008 #Brian - King of Ireland aged 20
     }
 }
