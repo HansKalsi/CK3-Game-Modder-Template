@@ -18,6 +18,7 @@
 	}
 }
 
+# Queen of Ireland
 1000002 = {
 	name = "Gormlaith" #Gormlaith - Queen of Ireland
 	dynasty = 1100000
@@ -35,5 +36,16 @@
 	culture = irish
 	1066.1.1 = {
 		birth = "1066.1.1"
+	}
+}
+
+# Random Orthodox Greek Character
+1000004 = {
+	name = "Michael Psellos" #Michael Psellos - Byzantine Scholar
+	dynasty = 1200001
+	religion = "orthodox"
+	culture = greek
+	1018.1.1 = {
+		birth = "1018.1.1"
 	}
 }
