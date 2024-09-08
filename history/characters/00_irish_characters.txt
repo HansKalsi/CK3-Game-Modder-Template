@@ -49,3 +49,48 @@
 		birth = "1018.1.1"
 	}
 }
+
+# Duchy of Leinster Holder
+1000005 = {
+	name = "Donnchad" #Donnchad - Duke of Leinster
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1060.1.1 = {
+		birth = "1060.1.1"
+	}
+}
+
+#Duchy of Connacht Holder
+1000006 = {
+	name = "Tairrdelbach" #Tairrdelbach - Duke of Connacht
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1088.1.1 = {
+		birth = "1088.1.1"
+	}
+}
+
+#County of Meath Holder
+1000007 = {
+	name = "Muirchertach Ua Briain" #Muirchertach Ua Briain - Earl of Meath
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1020.1.1 = {
+		birth = "1020.1.1"
+	}
+}
+
+#County of Louth Holder
+1000008 = {
+	name = "Muirchertach Ua Mael Sechnaill" #Muirchertach Ua Mael Sechnaill - Earl of Louth
+	dynasty = 1100000
+	religion = "orthodox"
+	culture = irish
+	1030.1.1 = {
+		birth = "1030.1.1"
+	}
+}
+
