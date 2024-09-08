@@ -42,7 +42,7 @@
 # Random Orthodox Greek Character
 1000004 = {
 	name = "Michael Psellos" #Michael Psellos - Byzantine Scholar
-	dynasty = 1200001
+	dynasty = 1200000
 	religion = "orthodox"
 	culture = greek
 	1018.1.1 = {
@@ -93,4 +93,16 @@
 		birth = "1030.1.1"
 	}
 }
+
+#Unique Character 1000-1060 AD
+1000009 = {
+	name = "Canute" #Canute the Great - Danish King of England, Denmark, and Norway
+	dynasty = 1300000
+	religion = "catholic"
+	culture = english
+	1000.1.1 = {
+		birth = "1000.1.1"
+	}
+}
+
 
