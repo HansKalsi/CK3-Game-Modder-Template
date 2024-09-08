@@ -13,8 +13,8 @@
 	dynasty = 1100000
 	religion = "orthodox"
 	culture = irish
-	1050.1.1 = {
-		birth = "1050.1.1"
+	1022.1.1 = {
+		birth = "1022.1.1"
 	}
 }
 
