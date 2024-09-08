@@ -9,12 +9,22 @@
 }
 
 1000001 = {
-	name = "Brian the Secodn" #Brian's Son - Heir of Ireland
+	name = "Brian the Second" #Brian's and Gormlaith's Son - Heir of Ireland
 	dynasty = 1100000
 	religion = "catholic"
 	culture = irish
 	1050.1.1 = {
 		birth = "1050.1.1"
+	}
+}
+
+1000002 = {
+	name = "Gormlaith" #Gormlaith - Queen of Ireland
+	dynasty = 1100000
+	religion = "catholic"
+	culture = irish
+	1000.1.1 = {
+		birth = "1000.1.1"
 	}
 }
 
