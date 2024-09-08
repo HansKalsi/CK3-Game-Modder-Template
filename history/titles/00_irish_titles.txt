@@ -1,5 +1,5 @@
 kingdom_of_ireland = {
-    1010.1.1 = {
+    800.1.1 = {
         holder = 1000000 #Brian - King of Ireland aged 40
     }
 }
